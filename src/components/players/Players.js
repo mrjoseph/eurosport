@@ -13,9 +13,10 @@ const Gender = ({ sex }) => {
 };
 
 const Players = (data) => {
+  const { players } = data;
   return (
       <div className="container">
-        {data.players.map((player) => {
+        {players.map((player) => {
           const {
             firstname,
             lastname,

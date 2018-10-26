@@ -2,7 +2,7 @@
   background:#141b4D;
   text-align:left;
   padding: 16px 16px;
-  margin-bottom:64px;
+  margin-bottom:32px;
 }
 .page-title {
   font-size:10px;
@@ -18,11 +18,50 @@
   background-position: 0% 0%;
   background-position: 50% 50%
   }
-
-.container {
-
+.versus-title {
+  display:flex;
+  font-size:1.5em;
+  margin:0 auto;
+  width:70%;
+  justify-content: center;
+  color:#9c9c9c;
 }
 
+.versus-title div:first-child:after {
+  content:"vs";
+  padding:8px;
+  color:#141847;
+}
+
+.versus-title {
+  width:100%;
+  display:block;
+  text-align:center;
+  margin-bottom:32px;
+}
+
+.versus-title div:first-child:after {
+  display:block;
+}
+
+@media only screen and (min-width: 600px) {
+
+  .versus-title {
+    display:flex;
+    font-size:1.5em;
+    margin:0 auto;
+    width:70%;
+    justify-content: center;
+    color:#9c9c9c;
+  }
+
+  .versus-title div:first-child:after {
+    display:inline;
+    content:"vs";
+    padding:8px;
+    color:#141847;
+  }
+}
 @media only screen and (min-width: 800px) {
   .container {
     margin:0 auto;
