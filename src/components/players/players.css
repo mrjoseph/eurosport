@@ -1,0 +1,35 @@
+.player-stats-container {
+    margin-left:16px;
+    width:100%;
+}
+.player {
+    display:flex;
+    border:1px solid #dedddd;
+    margin:16px;
+    border-radius:4px;
+    padding:16px;
+    background: #fff;
+}
+.player-title {
+    display:flex;
+}
+
+.player-title h3 {
+    margin:0 0 8px 8px;
+}
+.flag{
+    width:30px;
+    align-self: center
+}
+.gender {
+    font-style:italic;
+    display:inline-block;
+    margin: 8px 0;
+}
+
+@media only screen and (min-width: 800px) {
+    .player {
+        width:50%;
+
+    }
+}

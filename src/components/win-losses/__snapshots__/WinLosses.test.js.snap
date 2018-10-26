@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Wins and Losses renders wins and losses component  1`] = `
+<div
+  className="win-loss"
+>
+  <div>
+    Wins: 
+    2
+  </div>
+  <div>
+    Losses: 
+    3
+  </div>
+</div>
+`;

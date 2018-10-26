@@ -1,0 +1,11 @@
+.win-loss {
+    display:flex;
+    background: #141b4D;
+    color:#fff;
+    padding:4px;
+    border-radius:4px;
+    margin-top:16px;
+    width:160px;
+    justify-content: space-evenly;
+    font-size:.90em;
+}

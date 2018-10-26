@@ -1,0 +1,194 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Players renders players component  1`] = `
+<div
+  className="container"
+>
+  <div
+    className="player"
+  >
+    <div>
+      <img
+        alt="Stan Wawrinka"
+        src="https://i.eurosport.com/_iss_/person/pp_clubteam/large/325225.jpg"
+      />
+    </div>
+    <div
+      className="player-stats-container"
+    >
+      <div
+        className="player-title"
+      >
+        <img
+          alt="S.WAW"
+          className="flag"
+          src="https://i.eurosport.com/_iss_/geo/country/flag/large/2213.png"
+        />
+        <h3>
+          Stan Wawrinka
+        </h3>
+      </div>
+      <span
+        className="gender"
+      >
+         
+        Mens
+      </span>
+      <div
+        className="player-data-container"
+      >
+        <div
+          className="player-data-row"
+        >
+          <span>
+            rank:
+          </span>
+           
+          21
+        </div>
+        <div
+          className="player-data-row"
+        >
+          <span>
+            points:
+          </span>
+           
+          1784
+        </div>
+        <div
+          className="player-data-row"
+        >
+          <span>
+            weight:
+          </span>
+           
+          81 kg
+        </div>
+        <div
+          className="player-data-row"
+        >
+          <span>
+            height:
+          </span>
+           
+          1.83 m
+        </div>
+        <div
+          className="player-data-row"
+        >
+          <span>
+            age:
+          </span>
+           
+          33 years old
+        </div>
+        <div
+          className="win-loss"
+        >
+          <div>
+            Wins: 
+            4
+          </div>
+          <div>
+            Losses: 
+            1
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="player"
+  >
+    <div>
+      <img
+        alt="Rafael Nadal"
+        src="https://i.eurosport.com/_iss_/person/pp_clubteam/large/435121.jpg"
+      />
+    </div>
+    <div
+      className="player-stats-container"
+    >
+      <div
+        className="player-title"
+      >
+        <img
+          alt="R.NAD"
+          className="flag"
+          src="https://i.eurosport.com/_iss_/geo/country/flag/large/2203.png"
+        />
+        <h3>
+          Rafael Nadal
+        </h3>
+      </div>
+      <span
+        className="gender"
+      >
+         
+        Mens
+      </span>
+      <div
+        className="player-data-container"
+      >
+        <div
+          className="player-data-row"
+        >
+          <span>
+            rank:
+          </span>
+           
+          1
+        </div>
+        <div
+          className="player-data-row"
+        >
+          <span>
+            points:
+          </span>
+           
+          1982
+        </div>
+        <div
+          className="player-data-row"
+        >
+          <span>
+            weight:
+          </span>
+           
+          85 kg
+        </div>
+        <div
+          className="player-data-row"
+        >
+          <span>
+            height:
+          </span>
+           
+          1.85 m
+        </div>
+        <div
+          className="player-data-row"
+        >
+          <span>
+            age:
+          </span>
+           
+          33 years old
+        </div>
+        <div
+          className="win-loss"
+        >
+          <div>
+            Wins: 
+            2
+          </div>
+          <div>
+            Losses: 
+            3
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

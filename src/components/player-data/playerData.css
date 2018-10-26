@@ -1,0 +1,8 @@
+.player-data-row span {
+    display:inline-block;
+    width:64px;
+    color: #676767;
+}
+.player-data-row {
+    margin-bottom:4px;
+}

@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PlayerData renders wins and losses component  1`] = `
+<div
+  className="player-data-container"
+>
+  <div
+    className="player-data-row"
+  >
+    <span>
+      rank:
+    </span>
+     
+    21
+  </div>
+  <div
+    className="player-data-row"
+  >
+    <span>
+      points:
+    </span>
+     
+    1784
+  </div>
+  <div
+    className="player-data-row"
+  >
+    <span>
+      weight:
+    </span>
+     
+    81 kg
+  </div>
+  <div
+    className="player-data-row"
+  >
+    <span>
+      height:
+    </span>
+     
+    1.83 m
+  </div>
+  <div
+    className="player-data-row"
+  >
+    <span>
+      age:
+    </span>
+     
+    33 years old
+  </div>
+  <div
+    className="win-loss"
+  >
+    <div>
+      Wins: 
+      4
+    </div>
+    <div>
+      Losses: 
+      1
+    </div>
+  </div>
+</div>
+`;
