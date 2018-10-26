@@ -70,3 +70,12 @@
     position:relative;
   }
 }
+
+@media only screen and (min-width: 1000px) {
+  .container {
+    margin:0 auto;
+    width:85%;
+    display:flex;
+    position:relative;
+  }
+}
