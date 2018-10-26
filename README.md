@@ -8,3 +8,8 @@ cd eurosport
 yarn
 yarn start
 ```
+
+#### TODO
+- Add typechecking
+- Install css preporcessor (SCSS / LESS)
+- Rener data from node server
